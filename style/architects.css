@@ -113,6 +113,32 @@ border: none;
 #Quick_list{
     font-weight: 500;
 }
+
+/* love and enjoy related style */
+.features{
+    gap: 140px;
+}
+#features_section_title{
+    border-left: 5px solid #FF900E;
+    padding-left: 20px;
+}
+.features_card{
+    padding: 30px;
+    border-radius: 8px;
+    box-shadow: 0px 4px 30px 0px rgba(0, 0, 0, 0.06) ;
+    gap: 20px;
+
+
+}
+.features_card .features_title{
+    font-weight: 600;
+    font-size: 1.25rem;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    
+    
+
+}
 /* fact related styles */
 .facts_container{
     display: grid;
